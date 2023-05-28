@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MadSkills_SettingsCategory>Mad Skills</MadSkills_SettingsCategory>
+	<MadSkills_DailyXPSaturationThresholdLabel>每日经验上限</MadSkills_DailyXPSaturationThresholdLabel>
+	<MadSkills_DailyXPSaturationThresholdTip>游戏本体默认值:4000 当玩家在某项技能中获得一定数量的经验值后，所有后续学习的经验值都会被乘以以下数值，直到午夜</MadSkills_DailyXPSaturationThresholdTip>
+	<MadSkills_SaturatedXPMultiplierLabel>超限乘数</MadSkills_SaturatedXPMultiplierLabel>
+	<MadSkills_SaturatedXPMultiplierTip>游戏本体默认值:20%
+将某项技能所获得的经验值与当天的经验值相乘。
+设置为100%完全禁用每日XP限制。</MadSkills_SaturatedXPMultiplierTip>
+	<MadSkills_MultiplierLabel>衰变乘数</MadSkills_MultiplierLabel>
+	<MadSkills_MultiplierTip>游戏本体默认值:100%
+值乘以默认技能经验衰减效力。
+0%为零，50%为一半，200%为双倍，等等。</MadSkills_MultiplierTip>
+	<MadSkills_TieredLabel>分等级</MadSkills_TieredLabel>
+	<MadSkills_TieredTip>游戏本体默认值:关闭
+防止技能下降;根据乘数设置，下一关的经验值会衰减。</MadSkills_TieredTip>
+	<MadSkills_AlternativeGreatMemoryDescription>{PAWN_nameDef}对细节的记忆非常棒。学习新技能的速度会比其他人稍快。</MadSkills_AlternativeGreatMemoryDescription>
+	<MadSkills_AlterGreatMemoryLabel>另一种"过目不忘"</MadSkills_AlterGreatMemoryLabel>
+	<MadSkills_AlterGreatMemoryTip>游戏本体默认值:关闭
+改变了“过目不忘”特性的行为:不再是将技能衰减率减半，而是将学习率提高25%。</MadSkills_AlterGreatMemoryTip>
+</LanguageData>
